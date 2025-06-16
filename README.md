@@ -1,6 +1,6 @@
 # Zomato Bangalore Restaurant Analysis
 
-An in-depth **Exploratory Data Analysis (EDA)** project on Zomato's restaurant dataset for **Bangalore**, aimed at uncovering key insights into restaurant types, customer preferences, pricing trends, and more.
+Executed an in-depth **Exploratory Data Analysis (EDA)** on Zomato's Bangalore restaurant dataset, cleaning and preprocessing over 50,000+ rows to uncover insights into customer behavior, cuisine trends, pricing patterns, and digital service adoption.
 
 ---
 
